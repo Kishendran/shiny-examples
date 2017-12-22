@@ -10,6 +10,13 @@ You may need to restart R to make sure the newly-installed packages work properl
 
 After all these packages are installed, you can run this app by entering the directory, and then running the following in R:
 
+Sorry we couldn't upload this large database file in github.
+
+Please download the database from this link below, 
+https://www.kaggle.com/START-UMD/gtd
+Sign up in kaggle first before downloading the database.
+
+Sorry we couldn't upload this large file in github.
 ```s
 shiny::runApp()
 ```
